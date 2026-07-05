@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (!form) return;
 
     const SCRIPT_URL =
-        'https://script.google.com/macros/s/AKfycbz__qSNCzFe8Ag45_xlrq-0apQdZJbJSV5B0rlNBFUKmVJrbd3N3ZKs41JoYJx6AqLk7Q/exec';
+        'https://script.google.com/macros/s/AKfycbzzbY9qPSXnF3V9b1DGSU-EgovSJu8RgFaI03EHEM8TFTEUiD42TNsyyrOtzg-Dmm7fhw/exec';
 
     function showFieldError(inputEl, msg) {
         clearFieldError(inputEl);
