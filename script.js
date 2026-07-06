@@ -392,7 +392,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             formStatus.style.color = '#22C55E';
             formStatus.innerHTML =
-                '✅ Thank you! We\'ve received your inquiry. A confirmation email with your reference number is on its way — please check your inbox.';
+                '✅ Thank you! Your inquiry has been received. Check your inbox (and spam folder) for confirmation number.';
             form.reset();
 
             setTimeout(() => { formStatus.style.display = 'none'; }, 36000);
