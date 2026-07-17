@@ -929,6 +929,19 @@ body {
     vertical-align: 0;
 }
 
+/* ── CREDIT BADGE (oval, brand gradient) ── */
+.p-credits {
+    display: inline-block;
+    background: linear-gradient(135deg, #212874, #bf9953);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 0.3rem 1rem;
+    border-radius: 100px;
+    margin-bottom: 0.75rem;
+}
+
 .p-desc {
     color: var(--text2);
     font-size: 0.85rem;
